@@ -3,6 +3,7 @@
 
 A passionate tech enthusiast and fullstack developer specializing in PHP, Laravel (including Spatie and Breeze), 
 JavaScript, HTML, CSS, and Bootstrap. With a blend of creativity and technical prowess, I thrive on crafting innovative solutions that redefine digital experiences.
+
 🔭 **Skills:**
 - **Backend:** PHP, Laravel
 - **Frontend:** JavaScript (ES6+), HTML5, CSS3, Bootstrap
