@@ -31,8 +31,8 @@ Secure & Scalable: Built with security best practices and scalability in mind, e
 
 
 📫 **Reach Me:**
-- LinkedIn: [Stefanus Galang](https://linkedin.com/in/stefanus-galang)
-- Twitter: [@yourtwitterhandle](https://twitter.com/yourtwitterhandle)
+- LinkedIn: [Stefanus Galang](https://www.linkedin.com/in/stefanus-galang-87bb411b9?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
+  
 
 ⚡ **Fun Fact:**
 I believe in the power of clean code and continuous learning. When I'm not coding, you can find me exploring new technologies or enjoying a good book.
