@@ -1,10 +1,8 @@
 ## Hi there, I'm Galang! 👋
 ### Fullstack Developer | Laravel Enthusiast | JavaScript Junkie
 
-I'm a passionate fullstack developer with a strong command of PHP, 
-Laravel, JavaScript, HTML, CSS, and Bootstrap. With over [X] years of experience in web development, 
-I specialize in crafting scalable web applications and implementing responsive UI/UX designs.
-
+A passionate tech enthusiast and fullstack developer specializing in PHP, Laravel (including Spatie and Breeze), 
+JavaScript, HTML, CSS, and Bootstrap. With a blend of creativity and technical prowess, I thrive on crafting innovative solutions that redefine digital experiences.
 🔭 **Skills:**
 - **Backend:** PHP, Laravel
 - **Frontend:** JavaScript (ES6+), HTML5, CSS3, Bootstrap
